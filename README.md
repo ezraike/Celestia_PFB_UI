@@ -1,5 +1,4 @@
-# Info
-Celestia: Create a UI for submitting PayForBlob transactions
+
 
 
 ## Description
