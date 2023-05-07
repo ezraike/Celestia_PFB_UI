@@ -6,11 +6,15 @@ Celestia: Create a UI for submitting PayForBlob transactions
 Thanks to this user interface, you will now be able to make your PayForBlob transactions more easily.
 
 
-# Web demo
-- http://194.163.172.37:3069/
+# Web Page
+- http://194.163.172.37:2222/
 
 
-https://user-images.githubusercontent.com/102254553/236680584-3e310055-012a-4408-9a62-31b44454c228.mp4
+
+
+https://user-images.githubusercontent.com/102254553/236700138-07e99b88-ac14-4218-9b1b-c302f332c314.mp4
+
+
 
 
 
