@@ -15,8 +15,6 @@ Thanks to this user interface, you will now be able to make your PayForBlob tran
 
 - First of all, you have to install Celestia Blockspacerace Node to your VPS. I set up a Light Node for this project thanks to [Conqueror](https://github.com/DasRasyo/Celestia-Light-Node-blockspace-race) and [NakoTurk's](https://github.com/okannako/celestia-blockspacerace) guides
 
-- [NodeJS](https://nodejs.org/en/)
-
 
 
 ```
