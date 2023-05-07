@@ -1,10 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
+
 body {
   font-family: 'Poppins', sans-serif;
-  color: #b2a7a7;
-  background-color: #a2a1a1;
+  color: #125a20;
+  background-color: #141614;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -52,6 +53,7 @@ form input, button {
 form input {
   max-width: 500px;
 }
+
 
 
 
