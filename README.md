@@ -43,4 +43,4 @@ npm start
 
 
 ##  Note
-**make sure to run the UI server on the Celestia node gateway server with port 26659 and sufficient balance.**
+**Your server run with port 26659 
