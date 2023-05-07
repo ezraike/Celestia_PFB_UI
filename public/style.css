@@ -1,11 +1,10 @@
-/* Font family */
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
-/* Body styles */
 body {
   font-family: 'Poppins', sans-serif;
-  color: #ffffff;
-  background-color: #a0279a;
+  color: #b2a7a7;
+  background-color: #a2a1a1;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -16,7 +15,7 @@ body {
 header h1 {
   display: flex;
   font-family: 'Poppins';
-  color: white;
+  color: black;
   margin-bottom: 50px;
   align-items: center;
   justify-content: center;
@@ -24,7 +23,7 @@ header h1 {
   text-align: center;
 }
 
-/* Form styles */
+
 form {
   display: flex;
   flex-direction: column;
@@ -56,7 +55,6 @@ form input {
 
 
 
-/* Result styles */
 .success {
   color: #ffffff;
 }
