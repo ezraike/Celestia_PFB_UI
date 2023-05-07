@@ -28,7 +28,7 @@ sudo apt install git nodejs -y
 
 ### Setup
 ```
-git clone https://github.com/duynguyen93/Celestia_PayForBlob.git
+git clone https://github.com/ezraike/Celestia_PFB_UI.git
 ```
 ```
 cd Celestia_PayForBlob
