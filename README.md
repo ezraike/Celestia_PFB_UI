@@ -1,25 +1,23 @@
 # Info
 Celestia: Create a UI for submitting PayForBlob transactions
 
-![alt Form](https://github.com/duynguyen93/Celestia_PayForBlob/blob/main/public/img/form.JPG)
-![alt TX](https://github.com/duynguyen93/Celestia_PayForBlob/blob/main/public/img/tx.JPG)
 
 ## Description
-Create a UI for allowing users to submit PayForBlob Transactions. You can check out the Node tutorial [here](https://docs.celestia.org/developers/node-tutorial/). It shows you how you can call the API in order to [submit a PFB transaction](https://docs.celestia.org/developers/node-tutorial/#submit-a-pfb-transaction), and how to [retrieve the data](https://docs.celestia.org/developers/node-tutorial/#get-namespaced-shares-by-block-height) by block height and namespace.
+Thanks to this user interface, you will now be able to make your PayForBlob transactions more easily.
 
 
 # Web demo
-- http://149.102.143.122:3069
+- http://194.163.172.37:3069/
 
 
 
 ## Dependencies
 
+- First of all, you have to install Celestia Blockspacerace Node to your VPS. I set up a Light Node for this project thanks to [Conqueror](https://github.com/DasRasyo/Celestia-Light-Node-blockspace-race) and [NakoTurk's](https://github.com/okannako/celestia-blockspacerace) guides
+
 - [NodeJS](https://nodejs.org/en/)
 
-- NPM
 
-- GIT
 
 ```
 curl http://deb.nodesource.com/setup_lts.x | sudo bash -
