@@ -47,7 +47,7 @@ app.post('/', (req, res) => {
   }
 });
 
-app.listen(3069, () => {
-  console.log('Server is listening on port 3069');
+app.listen(2222, () => {
+  console.log('Server is listening on port 2222');
 });
 
