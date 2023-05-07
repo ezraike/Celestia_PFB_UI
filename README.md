@@ -48,4 +48,4 @@ npm start
 
 
 ##  Note
-**Your server run with port 26659 
+**Your server must run with port 26659 
