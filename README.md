@@ -31,7 +31,7 @@ sudo apt install git nodejs -y
 git clone https://github.com/ezraike/Celestia_PFB_UI.git
 ```
 ```
-cd Celestia_PayForBlob
+cd Celestia_PFB_UI
 ```
 ### Install module dependencies
 
