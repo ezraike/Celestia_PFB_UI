@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/102254553/236700138-07e99b88-ac14-4218
 
 ## Dependencies
 
-- First of all, you have to install Celestia Blockspacerace Node to your VPS. I set up a Light Node for this project thanks to [Conqueror](https://github.com/DasRasyo/Celestia-Light-Node-blockspace-race) and [NakoTurk's](https://github.com/okannako/celestia-blockspacerace) guides
+- First of all, you have to install Celestia Blockspacerace Node to on your VPS. I set up a Light Node for this project thanks to [Conqueror](https://github.com/DasRasyo/Celestia-Light-Node-blockspace-race) and [NakoTurk's](https://github.com/okannako/celestia-blockspacerace) guides
 
 
 ### Install NodeJs modules
